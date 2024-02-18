@@ -1,0 +1,11 @@
+
+low level
+
+deaf mute                    <<=== IGBO MAN
+sign lang(machine_language) <<===translator== igbo(C++, ASM, C) 
+
+
+
+high level
+deaf mute      middle-man(h-d)              <<=== Hausa MAN(sign lang)      middle-man(h-e)              <<==== English Woman
+sign lang(machine_language) <<===translator== hausa(C++, ASM, C) <<===translator== english(Js, Py)
